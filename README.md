@@ -1,0 +1,1 @@
+A simple project to see how abstraction works
